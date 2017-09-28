@@ -10,3 +10,9 @@ Run python dateformat.py mboxtocsv.csv dateformat.csv
 Run python datecount.py dateformat.csv datecount.csv
 Modify index.html with appropriate year range (also can change scaling for email count if necessary)
 Open index.html with browser
+
+Example 1
+![short example](https://github.com/unitedhvy/calendar_view/blob/master/example_1.png)
+
+Example 2
+![long example](https://github.com/unitedhvy/calendar_view/blob/master/example_2.png)
