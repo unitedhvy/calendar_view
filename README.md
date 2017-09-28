@@ -6,19 +6,12 @@ For this I used google’s takeout to download email archives, then used python 
 
 
 Instructions:
-
 Import your emails from gmail takeout
-
 Modify mboxtocsv.py with youremail.mbox in the input file area
-
 Run python mboxtocsv.py mboxtocsv.csv
-
 Run python dateformat.py mboxtocsv.csv dateformat.csv
-
 Run python datecount.py dateformat.csv datecount.csv
-
 Modify index.html with appropriate year range (also can change scaling for email count if necessary)
-
 Open index.html with browser
 
 Example 1
