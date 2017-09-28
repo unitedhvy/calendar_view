@@ -16,6 +16,6 @@ Instructions:
 -Modify index.html with appropriate year range (also can change scaling for email count if necessary)
 -Open index.html with browser
 
-Example:
+Sample:
 ![short example](https://github.com/unitedhvy/calendar_view/blob/master/example_1.png)
 
